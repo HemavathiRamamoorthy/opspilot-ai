@@ -1,8 +1,8 @@
-# OpsPilot AI Dashboard
+# ServLens AI Dashboard
 Enterprise Microservice Operations Dashboard (Spring Boot)
 
-## Why OpsPilot AI Dashboard?
-OpsPilot AI is a personal project inspired by challenges I've seen while working on enterprise applications. The objective is to create a single platform where engineering teams can monitor microservices, explore APIs, and quickly access operational information without jumping across multiple tools.
+## Why ServLens AI Dashboard?
+ServLens AI is a personal project inspired by challenges I've seen while working on enterprise applications. The objective is to create a single platform where engineering teams can monitor microservices, explore APIs, and quickly access operational information without jumping across multiple tools.
 
 The project is being developed using modern Java and Angular technologies, with a roadmap to integrate AI for documentation search, incident analysis, and operational assistance using Retrieval-Augmented Generation (RAG).
 

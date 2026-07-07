@@ -1,6 +1,6 @@
 # Architecture Decision Log (ADL)
 
-This document captures the important technical decisions made while building OpsPilot AI, along with the reasoning behind each choice.
+This document captures the important technical decisions made while building ServLens AI, along with the reasoning behind each choice.
 
 ---
 
