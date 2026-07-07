@@ -1,11 +1,12 @@
 
-package com.hema.opspilot.controller;
+package com.servlens.controller;
 
-import com.hema.opspilot.model.MicroserviceInfo;
-import com.hema.opspilot.service.DashboardService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.servlens.model.MicroserviceInfo;
+import com.servlens.service.DashboardService;
 
 import java.util.List;
 

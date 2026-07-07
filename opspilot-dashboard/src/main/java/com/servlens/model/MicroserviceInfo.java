@@ -1,4 +1,4 @@
-package com.hema.opspilot.model;
+package com.servlens.model;
 
 import java.time.Instant;
 

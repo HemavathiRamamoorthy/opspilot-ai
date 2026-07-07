@@ -1,5 +1,5 @@
 
-package com.hema.opspilot.service;
+package com.servlens.service;
 
 import java.time.Instant;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.UUID;
 
 import org.springframework.stereotype.Service;
 
-import com.hema.opspilot.model.MicroserviceInfo;
+import com.servlens.model.MicroserviceInfo;
 
 @Service
 public class DashboardService {

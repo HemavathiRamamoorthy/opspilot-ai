@@ -1,5 +1,5 @@
 
-package com.hema.opspilot.dto;
+package com.servlens.dto;
 
 /**
  * DTO summarizing health across monitored microservices.
