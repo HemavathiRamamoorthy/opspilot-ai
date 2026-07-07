@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "opspilot-ui": {
+    "servlens-ui": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -65,10 +65,10 @@
   },
           "configurations": {
             "production": {
-              "buildTarget": "opspilot-ui:build:production"
+              "buildTarget": "servlens-ui:build:production"
             },
             "development": {
-              "buildTarget": "opspilot-ui:build:development"
+              "buildTarget": "servlens-ui:build:development"
             }
           },
           "defaultConfiguration": "development"
