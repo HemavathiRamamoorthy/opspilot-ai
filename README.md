@@ -6,4 +6,9 @@ OpsPilot AI is a personal project inspired by challenges I've seen while working
 
 The project is being developed using modern Java and Angular technologies, with a roadmap to integrate AI for documentation search, incident analysis, and operational assistance using Retrieval-Augmented Generation (RAG).
 
-Technology Stack: Java 21 • Spring Boot • Angular 22 • REST APIs • Swagger • Spring Boot Actuator • PostgreSQL • Docker • AWS • GitHub Actions • Spring AI (Planned)
+### Technology Stack:
+• Java 21 • Spring Boot • Swagger • Spring Boot Actuator • REST APIs 
+• Angular 22 
+• PostgreSQL 
+• Docker • AWS • GitHub Actions
+• Spring AI (Planned)
